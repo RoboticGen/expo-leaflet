@@ -35,7 +35,7 @@
   "react": "16.x || 17.x || 18.x || 19.x",
   "react-measure": "^2.3.0",
   "react-native": "*",
-  "react-native-webview": "8.x || 9.x || 10.x || 11.x || 12.x"
+  "react-native-webview": "8.x || 9.x || 10.x || 11.x || 12.x || 13.x"
   },
   "devDependencies": {
     "@types/leaflet": "1.7.1",
